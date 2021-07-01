@@ -1,3 +1,26 @@
+### Hi there, I'm Brian 👋
+
+## I'm an entrepreneur, Developer and Sneakers Addict 💰
+- 🔭 I’m currently working on my formation "Web Developer" on OpenClassrooms.
+- 🌱 I’m currently learning the SEO
+- 👯 I’m looking to collaborate with developers of bots in the sneakers 👟
+- 🥅 2021 Goals: Graduation ! 🎓
+- 😄 Pronouns: Lam's !
+- ⚡ Fun fact: Did I tell you about my crazy uncle Jack?
+
+### Spotify Playing 🎧
+
+<a href="https://novatorem-lyart-five.vercel.app/now-playing?open">
+    <img src="https://novatorem-lyart-five.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 <table width="100%"> 
   <tr>
   <td width="50%">
