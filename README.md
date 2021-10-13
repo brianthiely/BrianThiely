@@ -2,7 +2,7 @@
 
 ## I'm an entrepreneur, Developer and Sneakers Addict 💰
 - 🔭 I’m currently working on my formation "Web Developer" on OpenClassrooms.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with developers of bots in the sneakers 👟
 - 🥅 2021 Goals: Graduation ! 🎓
 - 😄 Pronouns: Lam's !
