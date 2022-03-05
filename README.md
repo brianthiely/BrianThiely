@@ -8,8 +8,5 @@
 - 😄 Nickame: Lam's !
 - ⚡ Fun fact: Did I tell you about my crazy uncle Jack?
 
-### Spotify Playing 🎧
-      
-&nbsp; <br> [![Spotify](https://novatorem-sooty-ten.vercel.app/api/spotify)](https://open.spotify.com/user/i8e0b14yid6vwqgo8mzh2szxq)
 
  
