@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning PHP/SYMFONY
 - 👯 I’m looking to collaborate with bot developers in the sneaker industry 👟
 - 🥅 2022 Goals: Graduation ! 🎓
-- 😄 Nickame: Lam's !
+- 😄 Nickname: Lam's !
 - ⚡ Fun fact: Did I tell you about my crazy uncle Jack?
 
 
