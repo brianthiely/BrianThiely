@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my training "Web Developer" with OpenClassrooms.
 - 🌱 I’m currently learning PHP/SYMFONY
 - 👯 I’m looking to collaborate with bot developers in the sneaker industry 👟
-- 🥅 2022 Goals: Graduation ! 🎓
+- 🥅 2023 Goals: Graduation ! 🎓
 - 😄 Nickname: Lam's !
 
 
